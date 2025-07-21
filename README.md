@@ -20,9 +20,6 @@ pip install opencv-python mediapipe numpy
 ## Usage
 Run the game script:
 
-bash
-Copy
-Edit
 python shape_match_game.py
 Use a webcam and show a thumbs up gesture to start.
 
@@ -30,7 +27,7 @@ Pinch your thumb and index finger to select and drag shapes.
 
 Drag shapes to their matching bucket to score points.
 
-Controls
+## Controls
 Thumbs Up: Start the game
 
 Pinch (thumb + index finger): Select and drag shapes
