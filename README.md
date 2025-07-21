@@ -20,7 +20,10 @@ pip install opencv-python mediapipe numpy
 ## Usage
 Run the game script:
 
+```bash
 python shape_match_game.py
+```
+
 Use a webcam and show a thumbs up gesture to start.
 
 Pinch your thumb and index finger to select and drag shapes.
